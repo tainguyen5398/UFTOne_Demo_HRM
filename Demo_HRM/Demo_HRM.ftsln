@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "LoginTest", "LoginTest\Test.tsp", "B9C5D317-F833-4D43-8AB9-005736AD37EE"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\taing\OneDrive\Tài liệu\UFT One\LoginTest\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		B9C5D317-F833-4D43-8AB9-005736AD37EE.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B9C5D317-F833-4D43-8AB9-005736AD37EE.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B9C5D317-F833-4D43-8AB9-005736AD37EE.Release|Any CPU.Build.0 = Release|Any CPU
+		B9C5D317-F833-4D43-8AB9-005736AD37EE.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

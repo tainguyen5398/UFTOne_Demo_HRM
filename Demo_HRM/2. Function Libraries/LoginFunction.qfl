@@ -1,0 +1,9 @@
+﻿Function VerifyText(expectedText, actualText, stepName)                                      
+
+If actualText = expectedText Then
+    Reporter.ReportEvent micPass, "Text is correct", "The text matches expected value."
+Else
+    Reporter.ReportEvent micFail, "Text mismatch", actualText
+End If
+	
+End Function
